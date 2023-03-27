@@ -1,8 +1,9 @@
 [package]
 name = "merging-iterator"
-version = "1.3.0"
-authors = ["Valentin Brandl <mail@vbrandl.net>"]
+version = "1.4.0"
+authors = ["Valentin Brandl <mail@vbrandl.net>", "cyphersnake <cyphersnake@pm.me>"]
 description = "An iterator to return the elements of two independently ordered iterators in order"
+edition = "2021"
 
 repository = "https://github.com/vbrandl/merging-iterator"
 documentation = "https://docs.rs/merging-iterator/"
